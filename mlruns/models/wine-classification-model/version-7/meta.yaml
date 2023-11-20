@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1700513806708
+current_stage: None
+description: null
+last_updated_timestamp: 1700513806708
+name: wine-classification-model
+run_id: 3e92601c58e7448b8715206e36701e80
+run_link: null
+source: file:///home/runner/work/Mini_Project12_Yabei/Mini_Project12_Yabei/mlruns/0/3e92601c58e7448b8715206e36701e80/artifacts/wine_model
+status: READY
+status_message: null
+storage_location: file:///home/runner/work/Mini_Project12_Yabei/Mini_Project12_Yabei/mlruns/0/3e92601c58e7448b8715206e36701e80/artifacts/wine_model
+user_id: null
+version: 7

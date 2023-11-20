@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Mini_Project12_Yabei/Mini_Project12_Yabei/mlruns/0/3e92601c58e7448b8715206e36701e80/artifacts
+end_time: 1700513806714
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 3e92601c58e7448b8715206e36701e80
+run_name: bold-panda-734
+run_uuid: 3e92601c58e7448b8715206e36701e80
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700513805211
+status: 3
+tags: []
+user_id: runner
