@@ -5,6 +5,7 @@ from sklearn.metrics import accuracy_score
 from sklearn import datasets
 from mlflow.models import infer_signature
 
+
 def main():
     """Runs a basic logistic regression model
     and logs it with mlflow using the wine dataset"""
@@ -59,6 +60,7 @@ def main():
     loaded_model = mlflow.pyfunc.load_model(model_info.model_uri)
 
     return loaded_model
+
 
 if __name__ == "__main__":
     main()
