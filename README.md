@@ -29,7 +29,6 @@ MLflow is used to track:
 - Model parameters
 - Training metrics (e.g., accuracy)
 - Model artifacts
-2. Open your browser and navigate to `http://localhost:5000`.
 
 ## Project Structure
 - `model_training.py`: Main script for training the model and logging with MLflow.
