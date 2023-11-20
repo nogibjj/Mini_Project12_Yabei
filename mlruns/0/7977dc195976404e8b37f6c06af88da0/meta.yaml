@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Mini_Project12_Yabei/Mini_Project12_Yabei/mlruns/0/7977dc195976404e8b37f6c06af88da0/artifacts
+end_time: 1700512770144
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7977dc195976404e8b37f6c06af88da0
+run_name: abundant-eel-441
+run_uuid: 7977dc195976404e8b37f6c06af88da0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700512768636
+status: 3
+tags: []
+user_id: runner

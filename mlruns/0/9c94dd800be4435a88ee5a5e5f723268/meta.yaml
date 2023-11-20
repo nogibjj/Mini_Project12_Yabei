@@ -1,0 +1,15 @@
+artifact_uri: file:///home/runner/work/Mini_Project12_Yabei/Mini_Project12_Yabei/mlruns/0/9c94dd800be4435a88ee5a5e5f723268/artifacts
+end_time: 1700512766891
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 9c94dd800be4435a88ee5a5e5f723268
+run_name: unequaled-mole-446
+run_uuid: 9c94dd800be4435a88ee5a5e5f723268
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1700512765317
+status: 3
+tags: []
+user_id: runner
